@@ -1,0 +1,4 @@
+johndoe@example.com
+example@gmail.com
+username@yahoo.com
+thaboi@protonmail.com
