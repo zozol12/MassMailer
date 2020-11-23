@@ -1,9 +1,9 @@
 # Mass Mailer
 Simple mass mailer written in python.\
-It uses SMTP to send email messages.\
+It uses SMTP to send email messages.
 ## features
-- Configurable delay between each mail\
-- HTML message.\
+- Configurable delay between each mail
+- HTML message.
 - Target email list in simple txt file with configurable separator.
 ## Usage
 1. **Clone and unpack this repository**
